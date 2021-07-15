@@ -18,4 +18,4 @@ spec:
       - name: ubuntu
         image: ubuntu:xenial
         ports:
-      
+      - containerPort: 80
